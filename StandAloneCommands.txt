@@ -1,5 +1,20 @@
 sync
 whoami
 pwd
+HEAD
 groups
 add command
+
+
+
+let testValue = typeof someVariable;
+function testMyValue() {
+    if (testValue) {
+        console.log('testValue is true');
+    } else {
+        console.log('testValue is false');
+    }
+};
+
+When it comes to the application programming interfaces (APIs) and the API economy, the question that gets asked most frequently is "What is an API?". Thanks to the wider-spread attention that APIs are getting from the mainstream media, "What is an API?" is in fact the million dollar question because for those who understand the potential of APIs, there could be millions of more dollars to be made, or saved.
+86601a187d14509c81fa2d92c1d523a0b8d07a78
