@@ -3,3 +3,12 @@ whoami
 pwd
 groups
 git checkout
+let someVariable;
+let testValue = typeof someVariable;
+function testMyValue() {
+    if (testValue) {
+        console.log('testValue is true');
+    } else {
+        console.log('testValue is false');
+    }
+};
