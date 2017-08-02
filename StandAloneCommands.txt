@@ -2,3 +2,4 @@ sync
 whoami
 pwd
 groups
+add command
