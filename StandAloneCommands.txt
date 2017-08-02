@@ -1,9 +1,8 @@
 sync
 whoami
 pwd
-groups
-git checkout
-let someVariable;
+
+
 let testValue = typeof someVariable;
 function testMyValue() {
     if (testValue) {
@@ -12,3 +11,5 @@ function testMyValue() {
         console.log('testValue is false');
     }
 };
+
+When it comes to the application programming interfaces (APIs) and the API economy, the question that gets asked most frequently is "What is an API?". Thanks to the wider-spread attention that APIs are getting from the mainstream media, "What is an API?" is in fact the million dollar question because for those who understand the potential of APIs, there could be millions of more dollars to be made, or saved.
